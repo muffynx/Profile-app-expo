@@ -14,14 +14,5 @@ npm rxpo start
 
 
 ---
-/src
-│
-├── /app
-│   ├── About.js
-│   │          
-│   ├── _layout.js
-│   │              
-│   ├── contact.js
-│   │   
-│   ├── index.jsx
-│   │   
+           
+
