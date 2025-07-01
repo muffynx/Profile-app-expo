@@ -1,17 +1,17 @@
 "# Profile-app-expo" 
 
-```bash
+```
 git clone https://github.com/muffynx/Profile-app-expo.git
 ```
 
+```
+npm install expo
 
-
-
-```bash
-npm rxpo start
+```
 ```
 
-
+npm rxpo start
+```
 
 ---
            
